@@ -1,0 +1,10 @@
+.env 
+venv/ 
+faiss_store.pkl 
+data/ 
+__pycache__/ 
+*.pyc 
+.env 
+".env" 
+".env" 
+.env

@@ -1,0 +1,35 @@
+INVOICE
+
+Invoice Number: SF-2026-1147
+Issue Date: 05 February 2026
+Due Date: 20 February 2026
+
+Vendor:
+SkyLedger Analytics Pvt Ltd
+Bangalore, India
+
+Client:
+NovaGrid Energy Solutions Ltd
+Pune, India
+
+Description of Services:
+Enterprise Data Analytics Platform Subscription
+Billing Period: January 2026
+
+Subscription Plan: Enterprise Tier
+Users Included: 50
+Cost per User: ₹4,000
+
+Subtotal: ₹200,000
+GST (18%): ₹36,000
+Total Amount Payable: ₹236,000
+
+Payment Terms:
+Payment is due within 15 days from the invoice issue date.
+All payments must be made via bank transfer.
+Late payments will incur an interest charge of 1.5% per month.
+
+Bank Details:
+Account Name: SkyLedger Analytics Pvt Ltd
+Bank: ICICI Bank
+Account Numb
